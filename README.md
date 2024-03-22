@@ -7,14 +7,11 @@ Welcome to the Machine Learning Libraries Repository! This repository serves as 
 - [Introduction](#introduction)
 - [Libraries Covered](#libraries-covered)
 - [Notebooks](#notebooks)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Installation/Google Colab](#installation)
 
 ## Introduction
 
-In this repository, I document my journey through learning essential machine learning libraries in Python. Each notebook contains explanations, code snippets, and practical examples to facilitate your understanding and application of these libraries in real-world projects.
+In this repository, I document my journey through learning essential machine learning libraries in Python. Each notebook contains explanations, code snippets, and examples to facilitate your understanding.
 
 ## Libraries Covered
 
@@ -29,6 +26,6 @@ The following libraries are covered in this repository:
 
 Explore the notebooks to delve into specific topics:
 
-1. [Introduction to NumPy](numpy_intro.ipynb)
+1. [Introduction to NumPy](https://github.com/darshandhnwde/ML-Libraries/blob/main/Numpy.ipynb)
 2. [Data Manipulation with Pandas](pandas_data_manipulation.ipynb)
 3. [Data Visualization with Matplotlib](matplotlib_data_visualization.ipynb)
