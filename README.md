@@ -28,4 +28,4 @@ Explore the notebooks to delve into specific topics:
 
 1. [Introduction to NumPy](https://github.com/darshandhnwde/ML-Libraries/blob/main/Numpy.ipynb)
 2. [Data Manipulation with Pandas](https://github.com/darshandhnwde/ML-Libraries/blob/main/Pandas.ipynb)
-3. [Data Visualization with Matplotlib](matplotlib_data_visualization.ipynb)
+3. [Data Visualization with Matplotlib](https://github.com/darshandhnwde/ML-Libraries/blob/main/Matplotlib.ipynb)
