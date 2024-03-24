@@ -27,5 +27,5 @@ The following libraries are covered in this repository:
 Explore the notebooks to delve into specific topics:
 
 1. [Introduction to NumPy](https://github.com/darshandhnwde/ML-Libraries/blob/main/Numpy.ipynb)
-2. [Data Manipulation with Pandas](pandas_data_manipulation.ipynb)
+2. [Data Manipulation with Pandas](https://github.com/darshandhnwde/ML-Libraries/blob/main/Pandas.ipynb)
 3. [Data Visualization with Matplotlib](matplotlib_data_visualization.ipynb)
