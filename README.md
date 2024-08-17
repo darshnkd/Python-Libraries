@@ -1,6 +1,6 @@
-# Machine Learning Libraries Repository
+# Python Libraries Repository
 
-Welcome to the Machine Learning Libraries Repository! This repository serves as a collection of Jupyter notebooks where I explore and learn various machine learning libraries in Python. Whether you're a beginner looking to dive into the world of machine learning or an experienced practitioner seeking to sharpen your skills, you'll find valuable resources here.
+Welcome to the Python Libraries Repository! This repository serves as a collection of Jupyter notebooks where I explore and learn various libraries in Python. Whether you're a beginner looking to dive into the world of machine learning and data science or an experienced practitioner seeking to sharpen your skills, you'll find valuable resources here.
 
 ## Table of Contents
 
@@ -11,7 +11,7 @@ Welcome to the Machine Learning Libraries Repository! This repository serves as 
 
 ## Introduction
 
-In this repository, I document my journey through learning essential machine learning libraries in Python. Each notebook contains explanations, code snippets, and examples to facilitate your understanding.
+In this repository, I document my journey through learning essential  libraries in Python. Each notebook contains explanations, code snippets, and examples to facilitate your understanding.
 
 ## Libraries Covered
 
